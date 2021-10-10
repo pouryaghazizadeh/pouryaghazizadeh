@@ -7,5 +7,5 @@ This is the place where I opensource stuff and break things 🤣
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on more open source projects.
 
-- 📫 How to reach me on Email at [Vibhor Chaudhary](mailto:pourya.gh095@gmail.com)
+- 📫 How to reach me on Email at [pouryaghazizadeh](mailto:pourya.gh095@gmail.com)
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
