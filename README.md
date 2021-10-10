@@ -8,14 +8,18 @@ This is the place where I opensource stuff and break things 🤣
 - 👯 I’m looking to collaborate on more open source projects.
 
 - 📫 How to reach me on Email at [pouryaghazizadeh](mailto:pourya.gh095@gmail.com)
-- ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
+- ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🎸
 
 
 
 
-
+ # Tools and Skills
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="redux" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQABXPUzIiiKfjxkWq9of65KP8nGkN5YzuEdowc8kxTjLAQ13KCUylih0r3dra5tmjeQ5Y&usqp=CAU" />
+
+<img align="left" alt="javascript" width="26px" src="https://pluralsight2.imgix.net/paths/images/javascript-542e10ea6e.png" />
+
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
