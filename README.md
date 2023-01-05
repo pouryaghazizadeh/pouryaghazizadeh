@@ -26,7 +26,7 @@ This is the place where I opensource stuff and break things 🤣
 
 
 
-
+<!-- 
 
 <img align="left" alt="javascript" width="26px" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800.jpg" />
 
@@ -54,7 +54,7 @@ This is the place where I opensource stuff and break things 🤣
 <img align="left" alt="bootstrap" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQvo7DiCYq0KDfGNiQFlNiaozrX5Ze03TbQ&usqp=CAU" />
 <img align="left" alt="styled component" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIl8qTDfew6MW5sXFilzYfGW8Y5lhU0keo2g&usqp=CAU" />
 
-
+ -->
 <br>
 <p align="center">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
