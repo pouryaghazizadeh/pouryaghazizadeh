@@ -26,4 +26,4 @@ This is the place where I opensource stuff and break things 🤣
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apollo,aws,vscode,bootstrap,css,docker,dynamodb,express,git)](https://skillicons.dev)
