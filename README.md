@@ -26,4 +26,7 @@ This is the place where I opensource stuff and break things 🤣
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=graphql,heroku	,html,js,jest,latex,materialui,mongodb,netlify,nextjs,prisma,react,redux,sass,ts,vercel,,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/iconsi=graphql,heroku,html,js,jest,latex,materialui,mongodb,netlify,nextjs)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=prisma,react,redux,sass,ts,vercel,webpack)](https://skillicons.dev)
+
