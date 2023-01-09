@@ -14,17 +14,6 @@ This is the place where I opensource stuff and break things 🤣
 
 
  # Tools and Skills
- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-
-
-
-
-
-
-<img align="left" alt="jest" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvhrq8naaj7Xlpi9YxxJwLUUU4j5H-5-QTlA&usqp=CAU" />
-
-
 <br>
 <p align="center">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
@@ -33,4 +22,4 @@ This is the place where I opensource stuff and break things 🤣
 </p>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apollo,aws,bootstrap,css,docker,dynamodb,express,git,github,gitlab,graphql,heroku	,html,js,jest,latex,materialui	,mongodb,netlify	,nextjs	,prisma	,react,redux	,sass,ts,vercel,vscode,webpack,nodejs,figma&theme=light)](https://skillicons.dev)
