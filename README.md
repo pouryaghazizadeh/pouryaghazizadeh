@@ -22,8 +22,8 @@ This is the place where I opensource stuff and break things 🤣
 </p>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=apollo,aws,vscode,bootstrap,css,docker,dynamodb,express,git,github,gitlab,graphql,heroku	,html,js,jest,latex,materialui,mongodb,netlify,nextjs,prisma,react,redux,sass,ts,vercel,,webpack &heme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apollo,aws,vscode,bootstrap,css,docker,dynamodb,express,git,github,gitlab)](https://skillicons.dev)
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=apollo,aws,vscode,bootstrap,css,docker,dynamodb,express,git,github,gitlab,graphql,heroku	,html,js,jest,latex,materialui,mongodb,netlify,nextjs,prisma,react,redux,sass,ts,vercel,,webpack,&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apollo,aws,vscode,bootstrap,css,docker,dynamodb,express,git,github,gitlab,graphql,heroku	,html,js,jest,latex,materialui,mongodb,netlify,nextjs,prisma,react,redux,sass,ts,vercel,,webpack)](https://skillicons.dev)
