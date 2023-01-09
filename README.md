@@ -30,3 +30,10 @@ This is the place where I opensource stuff and break things 🤣
 
 [![My Skills](https://skillicons.dev/icons?i=prisma,react,redux,sass,ts,vercel,webpack)](https://skillicons.dev)
 
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=graphql,heroku,html,jest,materialui,mongodb,netlify,nextjs" />
+  </a>
+</p>
