@@ -34,6 +34,6 @@ This is the place where I opensource stuff and break things 🤣
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=graphql,heroku,html,jest,materialui,mongodb,netlify,nextjs" />
+    <img src="https://skillicons.dev/icons?i=graphql,heroku,html,jest,materialui,mongodb,netlify,nextjs,prisma,react,redux,sass,ts,vercel,webpack" />
   </a>
 </p>
